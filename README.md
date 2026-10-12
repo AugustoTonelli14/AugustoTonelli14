@@ -6,7 +6,7 @@ Data professional with a background in Sports Management, digital strategy,
 and financial markets. I focus on building reliable data pipelines, 
 analytical models, and dashboards that turn raw data into decisions.
 
-Currently at **Itaú BBA** — Treasury & Financial Institutions desk.
+Currently at **Itaú BBA in Europe** — Custody Operations Analyst | Private Banking 
 
 ---
 
